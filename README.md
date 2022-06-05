@@ -1,2 +1,2 @@
 # code_practice
-practive codeWars / Leedcode
+practice codeWars / Leedcode
