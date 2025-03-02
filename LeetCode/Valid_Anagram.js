@@ -63,7 +63,7 @@ var isAnagram3 = function (s, t) {
   return true
 
 }
-isAnagram3("anagram", "nagaram")
+// isAnagram3("anagram", "nagaram")
 
 
 //1. https://medium.com/roywannago-%E6%97%85%E8%A1%8C%E4%B8%8D%E9%9C%80%E7%90%86%E7%94%B1/leetcode-%E5%88%B7%E9%A1%8C%E7%B4%80%E9%8C%84-242-valid-anagram-easy-1371a24af1c9
@@ -71,6 +71,17 @@ isAnagram3("anagram", "nagaram")
 //3. https://www.youtube.com/watch?v=YW-yS-iIPNk
 
 //for... in ,for...of
-  //https://pjchender.blogspot.com/2017/01/javascript-es6-for-of.html
-  //https://kanboo.github.io/2018/01/09/JS-Traverse/
-  //https://blog.csdn.net/weixin_44178305/article/details/110699908
+//https://pjchender.blogspot.com/2017/01/javascript-es6-for-of.html
+//https://kanboo.github.io/2018/01/09/JS-Traverse/
+//https://blog.csdn.net/weixin_44178305/article/details/110699908
+
+
+
+
+
+
+var isAnagram = function (s, t) {
+  let obj = {};
+
+
+};

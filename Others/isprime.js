@@ -19,4 +19,3 @@ const isPrime = (n) => {
   return true
 }
 
-

@@ -13,7 +13,24 @@ var firstUniqChar = function (s) {
   return -1
 
 };
-firstUniqChar("loveleetcode")
+// firstUniqChar("loveleetcode")
+
+////
+
+// var firstUniqChar2 = function (s) {
+//   let obj = {}
+//   for (let item of s) {
+//     (!obj[item]) ? obj[item] = 1 : obj[item]++
+//   }
+//   console.log(obj)
+//   for (let i in obj) {
+//     console.log(obj[i])
+//     if (obj[i] === 1) return i
+//   }
+//   return -1
+
+// };
+// firstUniqChar2("loveleetcode")
 
 
 //參考：https://losseff.xyz/leetcode/001-first-unique-character-in-a-string/javascript/

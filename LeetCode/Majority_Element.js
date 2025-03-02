@@ -15,7 +15,10 @@ var majorityElement = function (nums) {
   }
 
 };
+//陣列中 for...of
 // majorityElement([3, 2, 3])
+//https://kanboo.github.io/2018/01/30/JS-for-of-forin/
+//建議：在迭代物件屬性時，使用 for...in；在迭代陣列時，使用 for...of。
 
 
 

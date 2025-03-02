@@ -15,6 +15,22 @@ var fizzBuzz = function (n) {
   }
   console.log(arr)
 };
-fizzBuzz(5)
+// fizzBuzz(5)
 
 //另解法
+
+// console.log(i);
+
+// for (var i = 0; i <= 5; i++) {
+//   setTimeout(function () {
+//     console.log(i)
+//   }, 0)
+// }
+// 6 個 6
+
+for (var i = 0; i < 10; i++) {
+  setTimeout(function () {
+    console.log(i)
+  }, 1000)
+}
+// 10個10

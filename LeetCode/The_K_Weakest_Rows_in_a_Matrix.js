@@ -49,6 +49,12 @@ function findFirstOne(arr, target) {
 
 }
 
+// if (arr[mid] < 0) {
+//   right = mid - 1
+// } else {
+//   left = mid + 1
+// }
+
 kWeakestRows([[1, 1, 0, 0, 0], [1, 1, 1, 1, 0], [1, 0, 0, 0, 0], [1, 1, 0, 0, 0], [1, 1, 1, 1, 1]], 3)
 
 
